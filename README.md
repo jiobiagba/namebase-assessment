@@ -17,6 +17,6 @@ The major files apart from the package.json file are:
 
 ## TESTING
 Follow the following steps:
-1. Clone the repository to your local system
-2. cd into the cloned reposiory and run `npm install`
+1. Run `git clone https://github.com/jiobiagba/namebase-assessment.git && cd namebase-assessment ` to clone the reopsitory to your local device and be in the project's base directory
+2. Run `npm install` to install the dependency
 3. Run `mocha test` to verify tests
