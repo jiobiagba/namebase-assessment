@@ -1,6 +1,10 @@
+const fs = require("fs")
+if( fs.existsSync("./db.json")) { fs.unlinkSync("./db.json") }
 
 const orderBook = require("../lib/index")
 const assert = require("assert")
+
+ 
 
 const order1 = [10, 2]
 const order2 = [15, 3]
