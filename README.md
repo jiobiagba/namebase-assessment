@@ -1,4 +1,4 @@
-# namebase-assessment
+# Order Book Challenge
 
 ## INTRODUCTION
 This repository contains my solution to the namebase order book challenge. In solving this challenge, I used the following:
